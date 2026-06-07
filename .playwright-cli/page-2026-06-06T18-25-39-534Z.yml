@@ -1,0 +1,243 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - generic [ref=e4]:
+      - generic [ref=e5]: YADEA YADEA
+      - generic [ref=e6]: CARGO TRIKE · DESIGN PROPOSAL
+      - generic [ref=e11]: YADEA CARGO TRIKE
+    - generic [ref=e16]: INITIALIZING · 26%
+  - generic [ref=e17]:
+    - generic [ref=e18]:
+      - generic [ref=e19]: "Y"
+      - generic [ref=e20]: YADEA · 货运三轮
+    - generic [ref=e21]:
+      - generic [ref=e22] [cursor=pointer]: 概览
+      - generic [ref=e23] [cursor=pointer]: A版
+      - generic [ref=e24] [cursor=pointer]: B版
+      - generic [ref=e25] [cursor=pointer]: 整车
+      - generic [ref=e26] [cursor=pointer]: 细节
+      - generic [ref=e27] [cursor=pointer]: 篷系
+      - generic [ref=e28] [cursor=pointer]: C版
+    - generic [ref=e29]: 2026 · DAFAR INDUSTRIAL DESIGN
+  - generic [ref=e30]:
+    - generic [ref=e31]:
+      - generic [ref=e32]: DESIGN PROPOSAL · 2026
+      - heading "YADEA CARGO TRIKE." [level=1] [ref=e33]:
+        - text: YADEA
+        - emphasis [ref=e34]: CARGO TRIKE.
+      - paragraph [ref=e35]: 雅迪货运三轮设计提案。基于机能美学与实用主义的再平衡，从机甲前脸到越野基因， 全系涵盖 A / B / C 三大设计方向与三款简易篷延伸，呈现一套可量产、可拓展、 面向城市末端物流与乡镇短驳运输的完整造型系统。
+      - generic [ref=e36]:
+        - generic [ref=e37]:
+          - generic [ref=e38]: "03"
+          - text: Design Directions
+        - generic [ref=e39]:
+          - generic [ref=e40]: "15"
+          - text: Render Sheets
+        - generic [ref=e41]:
+          - generic [ref=e42]: "06"
+          - text: Core Surfaces
+        - generic [ref=e43]:
+          - generic [ref=e44]: "2026"
+          - text: Concept Year
+    - generic [ref=e46]: Scroll
+  - generic [ref=e48]:
+    - generic [ref=e49]: /01 OVERVIEW
+    - generic [ref=e50]:
+      - generic [ref=e51]:
+        - generic [ref=e52]:
+          - generic [ref=e53]: Chapter 01
+          - heading "三大方向 一个家族。" [level=2] [ref=e54]:
+            - text: 三大方向
+            - text: 一个家族。
+        - paragraph [ref=e55]: 三个主方案既独立成立，也共享同一套设计语言：人字纹货箱、橙色减震器特征、 LED 一体式前灯组与 Y 字型品牌元素。它们是同一台车在三种使用语境下的不同答案。
+      - generic [ref=e56]:
+        - generic [ref=e57]:
+          - img "方案A · 机甲前脸 · 正视图" [ref=e58]
+          - generic [ref=e59]: A · Mecha
+          - generic [ref=e60]: "01"
+        - generic [ref=e61]:
+          - img "方案B · 越野前脸 · 正视图" [ref=e62]
+          - generic [ref=e63]: B · Off-road
+          - generic [ref=e64]: "02"
+        - generic [ref=e65]:
+          - img "方案C · 封闭驾驶室 · 正视图" [ref=e66]
+          - generic [ref=e67]: C · Enclosed
+          - generic [ref=e68]: "03"
+  - generic [ref=e69]:
+    - generic [ref=e70]: /02 VARIANT A
+    - generic [ref=e71]:
+      - generic [ref=e72]:
+        - generic [ref=e73]: A
+        - generic [ref=e74]: Mecha Front Face
+        - generic [ref=e75]: /
+        - generic [ref=e76]: "Ref: 环太平洋机甲 · 重型机械"
+      - heading "机甲前脸 · 工业感。" [level=2] [ref=e77]
+      - paragraph [ref=e78]: 一体冲压成型前围搭配硬朗折线，借鉴机甲角色的结构语言。倒角台阶勾勒出力量轮廓， 中央嵌入 YADEA 品牌色发光标识，构成强烈的视觉重心。
+      - generic [ref=e79]:
+        - img "方案A 正视图" [ref=e80]
+        - generic [ref=e81]: ⤢
+      - generic [ref=e82]:
+        - generic [ref=e83]:
+          - img "方案A 3/4 视图" [ref=e84]
+          - generic [ref=e85]: ⤢
+        - generic [ref=e86]:
+          - img "方案A 3/4 视图 · 另一角度" [ref=e87]
+          - generic [ref=e88]: ⤢
+      - generic [ref=e89]:
+        - generic [ref=e90]:
+          - generic [ref=e91]: 机甲前围
+          - generic [ref=e92]: Front Face
+        - generic [ref=e93]:
+          - generic [ref=e94]: LED 一体灯
+          - generic [ref=e95]: Headlight
+        - generic [ref=e96]:
+          - generic [ref=e97]: Y 发光标
+          - generic [ref=e98]: Emblem
+        - generic [ref=e99]:
+          - generic [ref=e100]: 撞色前唇
+          - generic [ref=e101]: Bumper
+  - generic [ref=e102]:
+    - generic [ref=e103]: /03 VARIANT B
+    - generic [ref=e104]:
+      - generic [ref=e105]:
+        - generic [ref=e106]: B
+        - generic [ref=e107]: Off-road Front Face
+        - generic [ref=e108]: /
+        - generic [ref=e109]: "Ref: 越野摩托 · Jeep Wrangler"
+      - heading "越野基因 · 硬派态度。" [level=2] [ref=e110]
+      - paragraph [ref=e111]: 圆灯元素致敬经典越野摩托，竖条进气格栅与外露铰链则直指 Jeep 家族。 黑色防擦护板与橙色减震器互为表里，传递出更强的场地感与可靠性。
+      - generic [ref=e112]:
+        - img "方案B 正视图" [ref=e113]
+        - generic [ref=e114]: ⤢
+      - generic [ref=e115]:
+        - generic [ref=e116]:
+          - img "方案B 3/4 视图" [ref=e117]
+          - generic [ref=e118]: ⤢
+        - generic [ref=e119]:
+          - img "方案B 3/4 视图 · 另一角度" [ref=e120]
+          - generic [ref=e121]: ⤢
+      - generic [ref=e122]:
+        - generic [ref=e123]:
+          - generic [ref=e124]: 圆形复古灯
+          - generic [ref=e125]: Round LED
+        - generic [ref=e126]:
+          - generic [ref=e127]: 竖条格栅
+          - generic [ref=e128]: Grille
+        - generic [ref=e129]:
+          - generic [ref=e130]: 防擦护板
+          - generic [ref=e131]: Skid Plate
+        - generic [ref=e132]:
+          - generic [ref=e133]: 越野胎纹
+          - generic [ref=e134]: Off-road Tire
+  - generic [ref=e135]:
+    - generic [ref=e136]: /04 WHOLE VEHICLE
+    - generic [ref=e137]:
+      - generic [ref=e138]:
+        - generic [ref=e139]:
+          - generic [ref=e140]: Chapter 04
+          - heading "整车视角。" [level=2] [ref=e141]
+        - paragraph [ref=e142]: 从侧、后方与 3/4 视角审视整车的体量、比例与货箱姿态。 人字纹货箱与外露减震器构成雅迪货运三轮最具识别度的视觉单元。
+      - generic [ref=e143]:
+        - generic [ref=e144]:
+          - img "侧视图" [ref=e145]
+          - generic [ref=e146]: ⤢
+        - generic [ref=e147]:
+          - img "后视图" [ref=e148]
+          - generic [ref=e149]: ⤢
+        - generic [ref=e150]:
+          - img "后 3/4 视图" [ref=e151]
+          - generic [ref=e152]: ⤢
+      - generic [ref=e153]:
+        - img "整车设计标注 · 细节标注" [ref=e154]
+        - generic [ref=e155]: ⤢
+      - generic [ref=e156]:
+        - generic [ref=e157]: Fig. 04 — 整车设计标注
+        - generic [ref=e158]: DAFAR INDUSTRIAL DESIGN
+  - generic [ref=e159]:
+    - generic [ref=e160]: /05 DETAILS
+    - generic [ref=e161]:
+      - generic [ref=e162]:
+        - generic [ref=e163]:
+          - generic [ref=e164]: Chapter 05
+          - heading "细节语言。" [level=2] [ref=e165]
+        - paragraph [ref=e166]: 整车造型的可识别性来自五个核心细节：灯组、减震、货箱纹理、轮毂、车把与仪表。 它们共同构成雅迪货运三轮的家族化设计语法。
+      - generic [ref=e167]:
+        - generic [ref=e168]:
+          - img "细节标注原图" [ref=e169]
+          - generic [ref=e170]: ⤢
+        - generic [ref=e171]:
+          - img "细节拼版" [ref=e172]
+          - generic [ref=e173]: ⤢
+      - generic [ref=e174]:
+        - generic [ref=e175]:
+          - generic [ref=e176]: HEADLIGHT
+          - heading "LED 一体式前灯" [level=4] [ref=e178]
+          - paragraph [ref=e179]: 横贯式 LED 灯眉 + 矩阵式远光，与发光 Y 标构成夜间识别度极高的前脸签名。
+        - generic [ref=e180]:
+          - generic [ref=e181]: SUSPENSION
+          - heading "橙色减震系统" [level=4] [ref=e183]
+          - paragraph [ref=e184]: 加粗外置弹簧配合黑色筒身，构成全车唯一一抹强对比橙色，机械张力外露。
+        - generic [ref=e185]:
+          - generic [ref=e186]: CARGO BOX
+          - heading "人字纹货箱" [level=4] [ref=e188]
+          - paragraph [ref=e189]: 立体压花 + 浮雕「雅迪」字样，触感与视觉同时强化品牌资产。
+  - generic [ref=e190]:
+    - generic [ref=e191]: /06 CANOPY SERIES
+    - generic [ref=e192]:
+      - generic [ref=e193]:
+        - generic [ref=e194]:
+          - generic [ref=e195]: Chapter 06
+          - heading "简易篷 · 三款延展。" [level=2] [ref=e196]
+        - paragraph [ref=e197]: 在基础车型上拓展三款简易篷形态，覆盖雨季、北方雪季与烈日工况下的 半封闭使用场景，整车姿态与基础款保持高度一致。
+      - generic [ref=e198]:
+        - generic [ref=e199]:
+          - img "01 简易篷" [ref=e200]
+          - generic [ref=e201]: 简易篷
+          - generic [ref=e203]: "01"
+          - generic [ref=e204]:
+            - generic [ref=e205]: Enclosed Cab
+            - generic [ref=e206]: 基础半包
+        - generic [ref=e207]:
+          - img "02 简易篷" [ref=e208]
+          - generic [ref=e209]: 简易篷
+          - generic [ref=e211]: "02"
+          - generic [ref=e212]:
+            - generic [ref=e213]: Logo Block
+            - generic [ref=e214]: 品牌强化
+        - generic [ref=e215]:
+          - img "03 简易篷" [ref=e216]
+          - generic [ref=e217]: 简易篷
+          - generic [ref=e219]: "03"
+          - generic [ref=e220]:
+            - generic [ref=e221]: Full Wrap
+            - generic [ref=e222]: 全包驾驶
+  - generic [ref=e223]:
+    - generic [ref=e224]: /07 VARIANT C
+    - generic [ref=e225]:
+      - generic [ref=e226]: "C Enclosed Cabin / Ref: 全天候驾驶 · 北方市场"
+      - heading "封闭驾驶室 · 全天候。" [level=2] [ref=e227]
+      - paragraph [ref=e228]: 引入全包式驾驶舱，挡风玻璃、雨刮与一体化门板一应俱全。 与基础款的开放式前脸形成对比，覆盖更冷、更雨、更严苛的使用场景。
+      - generic [ref=e229]:
+        - generic [ref=e230]:
+          - img "C版 · 基础" [ref=e231]
+          - generic [ref=e232]: ⤢
+        - generic [ref=e233]:
+          - img "C版 · 与基础款并置" [ref=e234]
+          - generic [ref=e235]: ⤢
+  - generic [ref=e236]:
+    - img "雅迪货运三轮 · 雪地实景" [ref=e237]
+    - generic [ref=e238]:
+      - heading "THANKS" [level=2] [ref=e239]
+      - generic [ref=e240]: FOR YOUR REVIEW · 期待你的反馈
+      - generic [ref=e241]:
+        - generic [ref=e242]:
+          - generic [ref=e243]: DESIGN
+          - text: DAFAR
+        - generic [ref=e244]:
+          - generic [ref=e245]: CLIENT
+          - text: YADEA
+        - generic [ref=e246]:
+          - generic [ref=e247]: YEAR
+          - text: "2026"
+        - generic [ref=e248]:
+          - generic [ref=e249]: CATEGORY
+          - text: Cargo Trike
